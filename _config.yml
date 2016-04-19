@@ -1,8 +1,24 @@
+name: Thomas Amaro
+favicon: null
 layout_spectrum: 0.2143547
+typography_spectrum: 0.2655764
+title: Thomas Amaro
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2789179
+  brandColors: []
   brandStrength: 0.07982284
   lightness: 0.1809701
+  saturation: 0.2789179
   rhythmicContrast: 0.1968284
-typography_spectrum: 0.2655764
-name: Thomas Amaro
+purpose: []
