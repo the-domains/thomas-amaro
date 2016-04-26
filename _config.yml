@@ -22,7 +22,7 @@ color:
     - '#9F9FA1'
     - '#5A595B'
     - '#1E1E1E'
-  rhythmicContrast: 0.1968284
+  rhythmicContrast: 0.5811567
 cta:
   bucket: null
   version: null
@@ -37,5 +37,5 @@ opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.2655764
+typography_spectrum: 0.9267724
 layout_spectrum: 0.2143547
