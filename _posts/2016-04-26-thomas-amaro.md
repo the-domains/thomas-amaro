@@ -6,8 +6,8 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: Thomas Amaro – The Official Website
-datePublished: '2016-04-26T02:09:04.533Z'
-dateModified: '2016-04-26T01:59:28.311Z'
+datePublished: '2016-04-26T02:28:28.860Z'
+dateModified: '2016-04-26T02:09:13.597Z'
 author:
   - name: ''
     url: ''
