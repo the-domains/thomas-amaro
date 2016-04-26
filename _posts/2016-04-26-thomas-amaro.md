@@ -5,9 +5,9 @@ inNav: false
 isBasedOnUrl: ''
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-04-26T01:57:11.576Z'
-dateModified: '2016-04-26T01:56:54.456Z'
+description: Thomas Amaro – The Official Website
+datePublished: '2016-04-26T02:09:04.533Z'
+dateModified: '2016-04-26T01:59:28.311Z'
 author:
   - name: ''
     url: ''
