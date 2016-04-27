@@ -1,5 +1,8 @@
+name: Thomas Amaro – The Official Site
+favicon: null
+layout_spectrum: 0.2143547
+typography_spectrum: 0.9267724
 title: Thomas Amaro
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2789179
-  brandStrength: 0.5746269
-  lightness: 0.1809701
   brandColors:
     - '#000000'
     - '#747477'
     - '#9F9FA1'
     - '#5A595B'
     - '#1E1E1E'
-  rhythmicContrast: 0.5811567
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Thomas Amaro
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.9267724
-layout_spectrum: 0.2143547
+  brandStrength: 0.5746269
+  lightness: 0.5
+  saturation: 0
+  rhythmicContrast: 0.75
+purpose: []
